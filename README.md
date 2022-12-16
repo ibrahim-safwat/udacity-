@@ -1,4 +1,4 @@
-# Welcome to my landing page project! 👋🏻 **(This is my second shot at this, hopefully i'll get it right this time)**.
+# Welcome to my landing page project! 👋🏻 
 
 #### This is my very first project within the professional web development track.
 
